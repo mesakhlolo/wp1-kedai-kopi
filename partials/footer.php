@@ -1,3 +1,3 @@
 <footer>
-    <p>Kedai Kopi Sederhana &copy; 2023. All rights reserved.</p>
+    <p>Kedai Kopi Paste &copy; 2023. All rights reserved.</p>
 </footer>

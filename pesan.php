@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Kedai Kopi Sederhana - Pesan</title>
+    <title>Kedai Kopi Paste - Pesan</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/pesan.css">
 </head>
@@ -43,7 +43,6 @@
     <?php include 'partials/footer.php'; ?>
 
     <!-- script for button (tambah kopi) -->
-    <!-- <script src="js/pesan.js"></script> -->
     <script>
         function addKopiInput() {
             const container = document.getElementById("kopi-inputs-container");

@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Kedai Kopi Sederhana - Tentang Kami</title>
+    <title>Kedai Kopi Paste - Tentang Kami</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 
@@ -12,7 +12,7 @@
     <div class="main-container">
         <h1>Tentang Kami</h1>
 
-        <p>Kedai Kopi Sederhana adalah kedai kopi yang menyediakan berbagai macam kopi berkualitas.</p>
+        <p>Kedai Kopi Paste adalah kedai kopi yang menyediakan berbagai macam kopi berkualitas.</p>
     </div>
 
 

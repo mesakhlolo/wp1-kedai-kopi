@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Kedai Kopi Sederhana - Kontak</title>
+    <title>Kedai Kopi Paste - Kontak</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 
@@ -13,7 +13,7 @@
         <h1>Kontak Kami</h1>
 
         <p>Hubungi kami melalui:</p>
-        <p>Email: info@kedaikopi.com</p>
+        <p>Email: kedaikopi@paste.com</p>
         <p>Telepon: 0123456789</p>
     </div>
 

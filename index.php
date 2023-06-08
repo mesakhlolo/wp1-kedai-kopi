@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Kedai Kopi Sederhana</title>
+    <title>Kedai Kopi Paste</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 
@@ -10,7 +10,7 @@
     <?php include 'partials/header.php'; ?>
 
     <div class="main-container">
-        <h1>Selamat datang di Kedai Kopi Sederhana!</h1>
+        <h1>Selamat datang di Kedai Kopi Paste!</h1>
     </div>
 
     <?php include 'partials/footer.php'; ?>

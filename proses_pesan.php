@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Kedai Kopi Sederhana - Proses Pesan</title>
+    <title>Kedai Kopi Paste - Proses Pesan</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
 
