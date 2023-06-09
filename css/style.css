@@ -2,14 +2,21 @@
 
 /* for default style, header, main, footer */
 :root {
-  --bg: #1c0a00;
-  --primary: #603601;
+  --dark: #1c0a00;
+  --brown: #603601;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  text-decoration: none;
 }
 
 body {
   font-family: "Poppins", sans-serif;
-  margin: 0;
-  padding: 0;
   /* for header and footer */
   min-height: 100vh;
   display: flex;
@@ -17,18 +24,31 @@ body {
 }
 
 /* header (navbar) style */
-header {
-  background-color: var(--primary);
-}
-
-nav {
+.navbar {
+  background-color: var(--brown);
   overflow: hidden;
   top: 0;
   width: 100%;
   text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 5%;
 }
 
-nav a {
+/* for navbar logo */
+.navbar .navbar-logo {
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: #fff;
+  font-style: italic;
+}
+
+.navbar .navbar-logo span {
+  color: var(--dark);
+}
+
+.navbar-nav a {
   float: left;
   display: block;
   text-align: center;
@@ -39,22 +59,22 @@ nav a {
   margin: 0 10px;
 }
 
-nav a:hover {
-  background: var(--bg);
+.navbar-nav a:hover {
+  background: var(--dark);
   color: #fff;
 }
 
 /* footer style */
-footer {
-  background-color: var(--primary);
+.footer {
+  background-color: var(--brown);
   color: #fff;
   text-align: center;
   margin-top: auto;
-  padding: 5px;
+  padding: 10px;
   text-align: center;
   font-size: 14px;
 }
 
-footer span {
+.footer span {
   font-weight: 700;
 }
