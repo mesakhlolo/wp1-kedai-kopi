@@ -1,3 +1,3 @@
 <footer>
-    <p>Kedai Kopi Paste &copy; 2023. All rights reserved.</p>
+    <p> <span>Kedai Kopi Paste</span> &copy; 2023. All rights reserved.</p>
 </footer>
