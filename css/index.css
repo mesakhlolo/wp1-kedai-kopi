@@ -1,4 +1,7 @@
 .main-container {
-  color: var(--bg);
-  text-align: center;
+  min-height: 100vh;
+  background-image: url("../img/index-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
