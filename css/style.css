@@ -4,6 +4,7 @@
 :root {
   --dark: #1c0a00;
   --brown: #603601;
+  --cream: #eed8c0;
 }
 
 * {
@@ -22,6 +23,16 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+/* for background per page */
+/* .main-container {
+  min-height: 100vh;
+  background-image: url("../img/index-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+} */
 
 /* header (navbar) style */
 .navbar {

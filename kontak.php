@@ -4,6 +4,7 @@
 <head>
     <title>Kedai Kopi Paste - Kontak</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/kontak.css">
 </head>
 
 <body>

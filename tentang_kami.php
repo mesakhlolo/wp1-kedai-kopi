@@ -4,6 +4,7 @@
 <head>
     <title>Kedai Kopi Paste - Tentang Kami</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/tentang.css">
 </head>
 
 <body>

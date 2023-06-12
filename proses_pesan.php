@@ -4,6 +4,7 @@
 <head>
     <title>Kedai Kopi Paste - Proses Pesan</title>
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/pesan.css">
 </head>
 
 <body>
