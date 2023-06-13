@@ -1,14 +1,28 @@
-.main-container {
-  min-height: 100vh;
-  background-image: url("../img/index-bg.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  position: relative;
-}
-
 .main-container .content {
   padding: 1.4rem 7%;
   max-width: 60rem;
-  margin-top: 3rem;
+}
+
+.main-container .content h1 {
+  font-size: 3em;
+  color: var(--dark);
+  line-height: 1.2;
+}
+
+.main-container .content p {
+  color: var(--dark);
+  font-size: 1.6rem;
+  margin-top: 1rem;
+  line-height: 1.4;
+  font-weight: 100;
+}
+
+.main-container .content .cta {
+  margin-top: 1rem;
+  display: inline-block;
+  padding: 1rem 1.5rem;
+  font-size: 1rem;
+  color: #fff;
+  background-color: var(--dark);
+  border-radius: 0.5rem;
 }

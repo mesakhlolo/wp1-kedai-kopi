@@ -22,17 +22,12 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-}
-
-/* for background per page */
-/* .main-container {
-  min-height: 100vh;
+  /* background image */
   background-image: url("../img/index-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  position: relative;
-} */
+}
 
 /* header (navbar) style */
 .navbar {
