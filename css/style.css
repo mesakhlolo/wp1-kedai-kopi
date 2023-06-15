@@ -23,10 +23,10 @@ body {
   display: flex;
   flex-direction: column;
   /* background image */
-  background-image: url("../img/index-bg.jpg");
+  /* background-image: url("../img/index-bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: center; */
 }
 
 /* header (navbar) style */

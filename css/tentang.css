@@ -1,1 +1,53 @@
+/* * {
+  border: 1px solid red;
+} */
 
+.tentang {
+  padding: 0rem 7%;
+}
+
+.tentang h2,
+.menu h2,
+.contact h2 {
+  text-align: center;
+  font-size: 2.6rem;
+  margin-bottom: 1rem;
+}
+
+.tentang h2 span,
+.menu h2 span,
+.contact h2 span {
+  color: var(--primary);
+}
+
+.tentang .row {
+  display: flex;
+}
+
+.tentang .row .tentang-img {
+  flex: 1 1 45rem;
+}
+
+.tentang .row .tentang-img img {
+  width: 450px;
+  height: auto;
+  margin-left: 7rem;
+}
+
+.tentang .row .content {
+  /* flex: 1 1 35rem; */
+  padding: 0 1rem;
+  margin-right: 5rem;
+}
+
+.tentang .row .content h3 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+.tentang .row .content p {
+  margin-bottom: 0.8rem;
+  font-size: 1.3rem;
+  font-weight: 100;
+  line-height: 1.6;
+}

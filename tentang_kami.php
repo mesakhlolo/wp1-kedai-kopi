@@ -10,12 +10,27 @@
 <body>
     <?php include 'partials/header.php'; ?>
 
-    <div class="main-container">
-        <h1>Tentang Kami</h1>
+    <div class="tentang">
+        <h2>Tentang Kami</h2>
 
-        <p>Kedai Kopi Paste adalah kedai kopi yang menyediakan berbagai macam kopi berkualitas.</p>
+        <div class="row">
+            <div class="tentang-img">
+                <img src="img/tentang-icon2.png" alt="Tentang Kami" />
+            </div>
+            <div class="content">
+                <h3>Kenapa memilih kopi kami?</h3>
+                <p>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dicta
+                    fuga, aut molestiae vitae porro deserunt.
+                </p>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat
+                    voluptatem doloribus maiores! Similique dolorem laborum at assumenda
+                    error ullam labore!
+                </p>
+            </div>
+        </div>
     </div>
-
 
     <?php include 'partials/footer.php'; ?>
 </body>

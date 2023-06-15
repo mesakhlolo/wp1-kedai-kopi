@@ -17,7 +17,7 @@
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur,
                 sapiente.
             </p>
-            <a href="#" class="cta">Beli Sekarang</a>
+            <a href="pesan.php" class="cta">Beli Sekarang</a>
         </main>
     </div>
 
