@@ -15,17 +15,17 @@
 
         <div class="row">
             <div class="menu-card">
-                <img src="img/menu/1.png" alt="Kopi Hitam" class="menu-card-img" />
+                <img src="img/menu/kopi-hitam.jpg" alt="Kopi Hitam" class="menu-card-img" />
                 <h3 class="menu-card-title">-- Kopi Hitam --</h3>
                 <p class="menu-card-price">IDR 10K</p>
             </div>
             <div class="menu-card">
-                <img src="img/menu/1.png" alt="Cappuccino" class="menu-card-img" />
+                <img src="img/menu/cappuccino.jpg" alt="Cappuccino" class="menu-card-img" />
                 <h3 class="menu-card-title">-- Cappuccino --</h3>
                 <p class="menu-card-price">IDR 15K</p>
             </div>
             <div class="menu-card">
-                <img src="img/menu/1.png" alt="Espresso" class="menu-card-img" />
+                <img src="img/menu/espresso.png" alt="Espresso" class="menu-card-img" />
                 <h3 class="menu-card-title">-- Espresso --</h3>
                 <p class="menu-card-price">IDR 12K</p>
             </div>

@@ -2,6 +2,7 @@
 .pesan .title {
   text-align: center;
   margin-top: 2rem;
+  font-size: 2rem;
 }
 
 .pesan .row {
@@ -27,47 +28,59 @@
 
 /* untuk pesan.php */
 .form-container {
-  max-width: 400px;
-  margin: 0 auto;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  margin: 0px auto;
+  margin-bottom: 2rem;
   padding: 20px;
-  background-color: var(--dark);
-  border-radius: 5px;
-  margin-bottom: 3rem;
-  color: #fff;
+  width: 400px;
 }
 
 .form-container h2 {
+  color: var(--dark);
   text-align: center;
 }
 
-.form-container label {
+label {
+  color: var(--dark);
   display: block;
-  margin-bottom: 10px;
+  margin-top: 10px;
 }
 
-.form-container input[type="number"],
-.form-container select {
-  width: 100%;
-  padding: 10px;
-  border: 1px solid #ccc;
+input[type="text"],
+input[type="number"],
+select {
   border-radius: 5px;
-  margin-bottom: 20px;
+  border: 1px solid var(--brown);
+  padding: 5px;
+  width: 100%;
 }
 
-.form-container .kopi-inputs {
-  margin-bottom: 20px;
-}
-
-.form-container .kopi-inputs label {
-  display: inline-block;
-  margin-right: 10px;
-}
-
-.form-container input[type="submit"] {
+button[type="button"],
+input[type="submit"] {
   background-color: var(--brown);
-  color: #fff;
-  padding: 10px 20px;
   border: none;
   border-radius: 5px;
+  color: white;
   cursor: pointer;
+  margin-top: 20px;
+  padding: 10px;
+  width: 100%;
+}
+
+button[type="button"]:hover,
+input[type="submit"]:hover {
+  background-color: var(--dark);
+}
+
+.kopi-inputs {
+  margin-top: 20px;
+}
+
+.kopi-inputs label,
+.kopi-inputs select,
+.kopi-inputs input[type="number"] {
+  display: block;
+  margin-top: 10px;
 }

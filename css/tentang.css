@@ -6,17 +6,14 @@
   padding: 0rem 7%;
 }
 
-.tentang h2,
-.menu h2,
-.contact h2 {
+.tentang h2 {
   text-align: center;
   font-size: 2.6rem;
+  margin-top: 1rem;
   margin-bottom: 1rem;
 }
 
-.tentang h2 span,
-.menu h2 span,
-.contact h2 span {
+.tentang h2 span {
   color: var(--primary);
 }
 
