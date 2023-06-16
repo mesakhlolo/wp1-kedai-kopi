@@ -10,9 +10,29 @@
 <body>
     <?php include 'partials/header.php'; ?>
 
-    <div class="main-container">
+    <div class="pesan">
+        <h2 class="title">Menu Kami</h2>
+
+        <div class="row">
+            <div class="menu-card">
+                <img src="img/menu/1.png" alt="Kopi Hitam" class="menu-card-img" />
+                <h3 class="menu-card-title">-- Kopi Hitam --</h3>
+                <p class="menu-card-price">IDR 10K</p>
+            </div>
+            <div class="menu-card">
+                <img src="img/menu/1.png" alt="Cappuccino" class="menu-card-img" />
+                <h3 class="menu-card-title">-- Cappuccino --</h3>
+                <p class="menu-card-price">IDR 15K</p>
+            </div>
+            <div class="menu-card">
+                <img src="img/menu/1.png" alt="Espresso" class="menu-card-img" />
+                <h3 class="menu-card-title">-- Espresso --</h3>
+                <p class="menu-card-price">IDR 12K</p>
+            </div>
+        </div>
+
         <div class="form-container">
-            <h1>Pesan Kopi</h1>
+            <h2>Pesan Kopi</h2>
 
             <form method="post" action="proses_pesan.php">
                 <label for="nama">Nama:</label>

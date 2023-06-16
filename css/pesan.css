@@ -1,13 +1,42 @@
+/* menu card */
+.pesan .title {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.pesan .row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 1.5rem;
+  justify-content: center;
+}
+
+.pesan .row .menu-card {
+  text-align: center;
+  padding-bottom: 4rem;
+}
+
+.pesan .row .menu-card img {
+  border-radius: 50%;
+  width: 60%;
+}
+
+.pesan .row .menu-card .menu-card-title {
+  margin: 1rem auto 0.5rem;
+}
+
 /* untuk pesan.php */
 .form-container {
   max-width: 400px;
   margin: 0 auto;
   padding: 20px;
-  background-color: #f2f2f2;
+  background-color: var(--dark);
   border-radius: 5px;
+  margin-bottom: 3rem;
+  color: #fff;
 }
 
-.form-container h1 {
+.form-container h2 {
   text-align: center;
 }
 
@@ -35,14 +64,10 @@
 }
 
 .form-container input[type="submit"] {
-  background-color: #333;
+  background-color: var(--brown);
   color: #fff;
   padding: 10px 20px;
   border: none;
   border-radius: 5px;
   cursor: pointer;
-}
-
-.form-container input[type="submit"]:hover {
-  background-color: #555;
 }
