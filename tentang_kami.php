@@ -15,7 +15,7 @@
 
         <div class="row">
             <div class="tentang-img">
-                <img src="img/tentang-icon2.png" alt="Tentang Kami" />
+                <img src="img/tentang-icon.png" alt="Tentang Kami" />
             </div>
             <div class="content">
                 <h3>Kenapa memilih kopi kami?</h3>

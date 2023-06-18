@@ -4,7 +4,7 @@
 <head>
     <title>Kedai Kopi Paste - Proses Pesan</title>
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/pesan.css">
+    <link rel="stylesheet" href="css/proses_pesan.css">
 </head>
 
 <body>
@@ -53,7 +53,9 @@
             }
             ?>
 
-            <p><a href="pesan.php">Kembali ke Halaman Pemesanan</a></p>
+            <div class="back-btn">
+                <a href="pesan.php">Kembali ke Halaman Pemesanan</a>
+            </div>
         </div>
     </div>
 
