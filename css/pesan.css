@@ -1,3 +1,7 @@
+body {
+  background-color: var(--cream);
+}
+
 /* menu card */
 .pesan .title {
   text-align: center;
@@ -20,6 +24,7 @@
 .pesan .row .menu-card img {
   border-radius: 50%;
   width: 60%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .pesan .row .menu-card .menu-card-title {

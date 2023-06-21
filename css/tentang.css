@@ -2,6 +2,10 @@
   border: 1px solid red;
 } */
 
+body {
+  background-color: var(--cream);
+}
+
 .tentang {
   padding: 0rem 7%;
 }
