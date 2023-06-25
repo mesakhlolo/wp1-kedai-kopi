@@ -8,6 +8,7 @@ body {
 
 .tentang {
   padding: 0rem 7%;
+  color: var(--dark);
 }
 
 .tentang h2 {
@@ -15,10 +16,6 @@ body {
   font-size: 2.6rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
-}
-
-.tentang h2 span {
-  color: var(--primary);
 }
 
 .tentang .row {
@@ -36,7 +33,6 @@ body {
 }
 
 .tentang .row .content {
-  /* flex: 1 1 35rem; */
   padding: 0 1rem;
   margin-right: 5rem;
 }
