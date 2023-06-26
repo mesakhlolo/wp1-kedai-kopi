@@ -20,13 +20,10 @@
             <div class="content">
                 <h3>Kenapa memilih kopi kami?</h3>
                 <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dicta
-                    fuga, aut molestiae vitae porro deserunt.
+                    Kami adalah pilihan yang tepat untuk pecinta kopi sejati. Setiap cangkir kopi yang kami sajikan adalah karya seni yang memikat dan menggugah selera.
                 </p>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat
-                    voluptatem doloribus maiores! Similique dolorem laborum at assumenda
-                    error ullam labore!
+                    Kami menghadirkan pengalaman kopi yang tak terlupakan. Dari aroma yang menggoda hingga rasa yang memanjakan, setiap tegukan adalah perjalanan yang memikat di atas lidah.
                 </p>
             </div>
         </div>

@@ -12,10 +12,9 @@
 
     <div class="main-container">
         <main class="content">
-            <h1>Mari Nikmati Secangkir <span>Kopi</span></h1>
+            <h1>Ketika Otak Perlu Inspirasi</h1>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur,
-                sapiente.
+                Secangkir kopi dapat membuat kita belajar bahwa rasa pahit juga dapat dinikmati.
             </p>
             <a href="pesan.php" class="cta">Beli Sekarang</a>
         </main>
